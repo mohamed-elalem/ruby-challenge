@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "irb"
+require_relative "../lib/challenge"
+
+IRB.start(__FILE__)
