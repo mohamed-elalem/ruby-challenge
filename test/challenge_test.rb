@@ -15,6 +15,6 @@ class ChallengeTest < Minitest::Test
   end
 
   def test_peak_year
-    assert_equal 2017, @challenge.peak_year
+    assert_equal 2010, @challenge.peak_year
   end
 end
